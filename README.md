@@ -39,7 +39,7 @@
     	<img src="https://img.shields.io/badge/-Illustrator-0a0a0a?style=flat-square&logo=adobe-illustrator" height="25px">
     	<img src="https://img.shields.io/badge/-Figma-0a0a0a?style=flat-square&logo=figma" height="25px">
     </p>
-    <br><br>
+    <br>
 </div>
 
 <h2 align="center">📄 Check out my CV 📄</h2>
@@ -63,7 +63,7 @@
         <img src="https://www.codewars.com/users/bxr1nG/badges/large" alt="CodeWars">
     </a>
     </p>
-    <br><br><br><br><br>
+    <br><br><br><br>
 </div>
 
 <h2 align="center">🕺 Thanks for visiting 💃</h2>
