@@ -35,21 +35,19 @@
     	<img src="https://img.shields.io/badge/-Illustrator-0a0a0a?style=flat-square&logo=adobe-illustrator" height="25px">
     	<img src="https://img.shields.io/badge/-Figma-0a0a0a?style=flat-square&logo=figma" height="25px">
 </div>
-<br><br>
-
-
+<br><br><br>
 
 
 
 <h2 align="center">📄 Check out my CV 📄</h2>
 <div>
-	<a href="https://drive.google.com/file/d/1zNXnggXMbF8CkqTXFJQyAgnHcbn4WulU/view?usp=sharing" target="blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135692.png" width="25%">
-	</a>
     <img align="right" src="./assets/anya.gif" width="50%">
+	<a href="https://drive.google.com/file/d/1zNXnggXMbF8CkqTXFJQyAgnHcbn4WulU/view?usp=sharing" target="blank">
+        <br>
+        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135692.png" width="25%">
+        <br>
+	</a>
 </div>
-
-<br>
 
 <h2 align="center">👨‍💻 CodeWars 👨‍💻</h2>
 <div>
@@ -57,13 +55,14 @@
     <a href="https://www.codewars.com/users/bxr1nG" target="blank">
         <br><br><br><br><br>
         <img align="right" src="https://www.codewars.com/users/bxr1nG/badges/large" alt="CodeWars">
-        <br><br><br><br><br>
+        <br><br><br><br><br><br>
     </a>
 </div>
 
 
 
 
+
 <h2 align="center">🕺 Thanks for visiting 💃</h2>
-    <img align="center" src="./assets/dance.gif" width="100%">
+<img align="center" src="./assets/dance.gif" width="100%">
 
