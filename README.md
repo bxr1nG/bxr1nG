@@ -13,7 +13,7 @@
 <h2 align="center">🤖 Languages and Tools 🤖</h2>
 <div>
     <img align="left" src="./assets/onepunchman.gif" width="50%">
-    <br><br>
+    <br>
     <p align="center">
     	<img src="https://img.shields.io/badge/-HTML-0a0a0a?style=flat-square&logo=html5" height="25px">
     	<img src="https://img.shields.io/badge/-CSS-0a0a0a?style=flat-square&logo=css3" height="25px">
@@ -63,7 +63,7 @@
         <img src="https://www.codewars.com/users/bxr1nG/badges/large" alt="CodeWars">
     </a>
     </p>
-    <br><br><br><br><br><br>
+    <br><br><br><br><br>
 </div>
 
 <h2 align="center">🕺 Thanks for visiting 💃</h2>
