@@ -35,7 +35,7 @@
     	<img src="https://img.shields.io/badge/-Illustrator-0a0a0a?style=flat-square&logo=adobe-illustrator" height="25px">
     	<img src="https://img.shields.io/badge/-Figma-0a0a0a?style=flat-square&logo=figma" height="25px">
 </div>
-<br>
+<br><br>
 
 
 
@@ -55,11 +55,12 @@
 <div>
     <img align="left" src="./assets/fight.gif" width="50%">
     <a href="https://www.codewars.com/users/bxr1nG" target="blank">
-        <br><br><br><br>
+        <br><br><br><br><br>
         <img align="right" src="https://www.codewars.com/users/bxr1nG/badges/large" alt="CodeWars">
         <br><br><br><br><br>
     </a>
 </div>
+
 
 
 
