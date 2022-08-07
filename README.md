@@ -8,6 +8,8 @@
 <h1 align="center"><img src="./assets/wave.gif" width="30"> Hi, I'm Danya</h1>
 <h3 align="center">I'm a frontend developer currently looking for new oportunities</h3>
 
+<br>
+
 <h2 align="center">🤖 Languages and Tools 🤖</h2>
 <div>
     <img align="left" src="./assets/onepunchman.gif" width="50%">
@@ -64,5 +66,5 @@
 
 
 <h2 align="center">🕺 Thanks for visiting 💃</h2>
-<img align="center" src="./assets/dance.gif" width="100%">
+<img align="center" src="./assets/dance.gif" width="50%">
 
