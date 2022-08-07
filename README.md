@@ -65,5 +65,7 @@
 
 
 <h2 align="center">🕺 Thanks for visiting 💃</h2>
-<img align="center" src="./assets/dance.gif" width="50%">
+<p align="center">
+    <img src="./assets/dance.gif" width="50%">
+</p>
 
