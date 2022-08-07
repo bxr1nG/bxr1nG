@@ -42,10 +42,6 @@
     <br><br>
 </div>
 
-
-
-
-
 <h2 align="center">📄 Check out my CV 📄</h2>
 <div>
     <img align="right" src="./assets/anya.gif" width="50%">
@@ -70,12 +66,7 @@
     <br><br><br><br><br><br>
 </div>
 
-
-
-
-
 <h2 align="center">🕺 Thanks for visiting 💃</h2>
 <p align="center">
     <img src="./assets/dance.gif" width="50%">
 </p>
-
