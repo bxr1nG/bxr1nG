@@ -13,6 +13,8 @@
 <h2 align="center">🤖 Languages and Tools 🤖</h2>
 <div>
     <img align="left" src="./assets/onepunchman.gif" width="50%">
+    <br><br>
+    <p align="center">
     	<img src="https://img.shields.io/badge/-HTML-0a0a0a?style=flat-square&logo=html5" height="25px">
     	<img src="https://img.shields.io/badge/-CSS-0a0a0a?style=flat-square&logo=css3" height="25px">
     	<img src="https://img.shields.io/badge/-JS-0a0a0a?style=flat-square&logo=javascript" height="25px">
@@ -36,30 +38,38 @@
     	<img src="https://img.shields.io/badge/-Photoshop-0a0a0a?style=flat-square&logo=adobe-photoshop" height="25px">
     	<img src="https://img.shields.io/badge/-Illustrator-0a0a0a?style=flat-square&logo=adobe-illustrator" height="25px">
     	<img src="https://img.shields.io/badge/-Figma-0a0a0a?style=flat-square&logo=figma" height="25px">
+    </p>
+    <br><br>
 </div>
-<br><br><br>
+
+
 
 
 
 <h2 align="center">📄 Check out my CV 📄</h2>
 <div>
     <img align="right" src="./assets/anya.gif" width="50%">
-	<a href="https://drive.google.com/file/d/1zNXnggXMbF8CkqTXFJQyAgnHcbn4WulU/view?usp=sharing" target="blank">
-        <br>
-        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135692.png" width="25%">
-        <br>
-	</a>
+    <p align="center">
+        <a href="https://drive.google.com/file/d/1zNXnggXMbF8CkqTXFJQyAgnHcbn4WulU/view?usp=sharing" target="blank">
+            <br>
+            <img src="https://cdn-icons-png.flaticon.com/512/3135/3135692.png" width="25%">
+            <br>
+        </a>
+    </p>
 </div>
 
 <h2 align="center">👨‍💻 CodeWars 👨‍💻</h2>
 <div>
     <img align="left" src="./assets/fight.gif" width="50%">
+    <br><br><br><br><br>
+    <p align="center">
     <a href="https://www.codewars.com/users/bxr1nG" target="blank">
-        <br><br><br><br><br>
-        <img align="right" src="https://www.codewars.com/users/bxr1nG/badges/large" alt="CodeWars">
-        <br><br><br><br><br><br>
+        <img src="https://www.codewars.com/users/bxr1nG/badges/large" alt="CodeWars">
     </a>
+    </p>
+    <br><br><br><br><br><br>
 </div>
+
 
 
 
