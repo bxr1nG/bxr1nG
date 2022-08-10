@@ -46,7 +46,7 @@
 <div>
     <img align="right" src="./assets/anya.gif" width="50%">
     <p align="center">
-        <a href="https://drive.google.com/file/d/1zNXnggXMbF8CkqTXFJQyAgnHcbn4WulU/view?usp=sharing" target="blank">
+        <a href="https://drive.google.com/file/d/1zNXnggXMbF8CkqTXFJQyAgnHcbn4WulU/view?usp=sharing" target="_blank">
             <br>
             <img src="https://cdn-icons-png.flaticon.com/512/3135/3135692.png" width="25%">
             <br>
