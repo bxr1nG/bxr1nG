@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center"><img src="./assets/wave.gif" width="30"> Hi, I'm Danya</h1>
-<h3 align="center">I'm a frontend developer currently looking for new oportunities</h3>
+<h3 align="center">I'm a frontend developer</h3>
 
 <br>
 
