@@ -38,15 +38,16 @@
     	<img src="https://img.shields.io/badge/-Photoshop-0a0a0a?style=flat-square&logo=adobe-photoshop" height="25px">
     	<img src="https://img.shields.io/badge/-Illustrator-0a0a0a?style=flat-square&logo=adobe-illustrator" height="25px">
     	<img src="https://img.shields.io/badge/-Figma-0a0a0a?style=flat-square&logo=figma" height="25px">
+    	<img src="https://img.shields.io/badge/-and%20mush%20more-ff69b4?style=flat-square" height="25px">
     </p>
     <br>
 </div>
 
-<h2 align="center">📄 Check out my CV 📄</h2>
+<h2 align="center">📄 Check out my CV (irrelevant) 📄</h2>
 <div>
     <img align="right" src="./assets/anya.gif" width="50%">
     <p align="center">
-        <a href="https://drive.google.com/file/d/1zNXnggXMbF8CkqTXFJQyAgnHcbn4WulU/view?usp=sharing" target="_blank">
+        <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank">
             <br>
             <img src="https://cdn-icons-png.flaticon.com/512/3135/3135692.png" width="25%">
             <br>
