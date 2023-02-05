@@ -38,7 +38,7 @@
     	<img src="https://img.shields.io/badge/-Photoshop-0a0a0a?style=flat-square&logo=adobe-photoshop" height="25px">
     	<img src="https://img.shields.io/badge/-Illustrator-0a0a0a?style=flat-square&logo=adobe-illustrator" height="25px">
     	<img src="https://img.shields.io/badge/-Figma-0a0a0a?style=flat-square&logo=figma" height="25px">
-    	<img src="https://img.shields.io/badge/-and%20mush%20more-ff69b4?style=flat-square" height="25px">
+    	<img src="https://img.shields.io/badge/-and%20muсh%20more-ff69b4?style=flat-square" height="25px">
     </p>
     <br>
 </div>
